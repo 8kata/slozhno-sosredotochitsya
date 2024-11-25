@@ -1,1 +1,1 @@
-https://github.com/8kata/slozhno-sosredotochitsya.git
+ https://github.com/8kata/slozhno-sosredotochitsya.git 

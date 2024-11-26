@@ -226,6 +226,10 @@
   .section__article-row-container {
     grid-template-columns: repeat(3, 1fr);
   }
+
+  .section-row {
+    column-gap: 11px;
+  }
 }
 
 @media (768px <= width <= 1440px) {
